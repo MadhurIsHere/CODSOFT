@@ -7,7 +7,7 @@ public class Task1 {
     {
         Scanner in =new Scanner(System.in);
         Random random=new Random();
-        int MaxAttempt=5;                // max attempts
+        int MaxAttempt=7;                // max attempts
         int score =0;                    // initial score
         boolean playagain=true;          // to play again
 

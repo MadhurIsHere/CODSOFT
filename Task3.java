@@ -99,7 +99,6 @@ class ATM{
     }
 }
 // main class
-
 public class Task3 {
     public static void main(String[] args) {
         BankAccount userAccount=new BankAccount(1000.0);
